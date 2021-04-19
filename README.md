@@ -1,5 +1,5 @@
 # Daily-Journal
-Daily Journal s a website where user can easily creates a topic related information.
+Daily Journal is a website where a User can easily create a Topic related Information & can be publicly Showcased.
 
 
 # Setup  
